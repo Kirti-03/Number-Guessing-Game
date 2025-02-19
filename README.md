@@ -16,6 +16,7 @@ To run the project, **clone the repository**, compile the Java file, and execute
 The video to see the chatbot in action.
 
 *Video*
+
 https://github.com/user-attachments/assets/c14680b4-7624-4aab-b3bd-57bd1703cace
 
 This project is licensed under the MIT License – see the LICENSE file for details.
