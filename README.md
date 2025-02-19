@@ -8,5 +8,7 @@ Key features include user input validation, interactive feedback (**Too High / T
 The game logic generates a random number and continuously prompts the user until they find the correct answer. Attempt tracking is handled within the program to count the number of guesses.  
 
 To run the project, **clone the repository**, compile the Java file, and execute the program using a Java IDE such as **IntelliJ or Eclipse**, or run it via the command line using `javac` and `java`. No external dependencies are required, making it lightweight and easy to set up.
+
 **Screenshots**
+![Image](https://github.com/user-attachments/assets/08cda8bf-a374-4c4b-ade4-21c096bc80ac)
 
